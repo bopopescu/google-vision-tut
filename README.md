@@ -1,6 +1,6 @@
-##Experimenting with OCR
+## Experimenting with OCR
 
-####Followed along with tutorial:
+#### Followed along with tutorial:
 https://cloud.google.com/functions/docs/tutorials/ocr
 
 The image being analyzed is hardcorded in request.json.
