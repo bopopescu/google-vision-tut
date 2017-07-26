@@ -1,0 +1,25 @@
+{
+  "requests": [
+    {
+      "image": {
+        "source": {
+          "imageUri": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAPAAAAAJDYxZTRhYTRiLTFhYjgtNDk2NS04ODk4LWFhZWMxZDJiYjU1OQ.jpg"
+        }
+      },
+      "features": [
+        {
+          "type": "LANDMARK_DETECTION",
+          "maxResults": 1
+        },
+        {
+          "type": "WEB_DETECTION",
+          "maxResults": 2
+        },
+        {
+          "type": "FACE_DETECTION",
+          "maxResults": 4
+        },
+      ]
+    }
+  ]
+}

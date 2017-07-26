@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "ticket_results",
+  "RESULT_BUCKET": "ocr_tickets_text",
+  "TRANSLATE_TOPIC": "translate_tickets",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
